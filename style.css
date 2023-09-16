@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    margin:0;
+    padding:0;
+}
+.navbar{
+    color:white;
+    padding: 0;
+    margin:0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-image: linear-gradient(180deg,hsl(0, 85%, 59%),hsl(0, 60%, 35%) ) 
+}
