@@ -5,6 +5,11 @@ body{
     padding:0;
     background-color:aquamarine;
 }
+img{
+    height: 100%;
+    width: 100%;
+}
+
 .navbar{
     font-family: Roboto;
     font-size: 18px;
